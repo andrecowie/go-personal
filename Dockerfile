@@ -1,3 +1,3 @@
 FROM scratch
-ADD main /
+COPY bin/main /
 CMD ["/main"]
