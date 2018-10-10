@@ -1,6 +1,6 @@
 .
 ├── Dockerfile
-├── README.MD
+├── README.md
 ├── app
 ├── bin
 │   ├── README.md
